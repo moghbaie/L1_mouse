@@ -1,4 +1,4 @@
-"# L1_mouse" 
+
 # Line-1 mouse projects
 
 ##### contact moghbaie@rockefeller.edu for any questions
